@@ -5,12 +5,12 @@ The Roadmap Project is a comprehensive, well-structured guide designed to help l
 
 ## Features
 
-Interactive Roadmaps: Explore learning paths for different technologies (e.g., ReactJS, NestJS, PostgreSQL).
-User Authentication: Secure login and user management.
-Responsive Design: Mobile-friendly UI powered by Tailwind CSS.
-Data Storage: Use PostgreSQL to store user data, roadmaps.
-Admin Dashboard: Admins can manage and update roadmaps.
-Interactive UI: Built with ReactJS to provide a dynamic and fast user experience.
+- **Interactive Roadmaps**: Explore learning paths for different technologies (e.g., ReactJS, NestJS, PostgreSQL).
+- **User Authentication**: Secure login and user management.
+- **Responsive Design**: Mobile-friendly UI powered by Tailwind CSS.
+- **Data Storage**: Use PostgreSQL to store user data, roadmaps.
+- **Admin Dashboard**: Admins can manage and update roadmaps.
+- **Interactive UI**: Built with ReactJS to provide a dynamic and fast user experience.
 
 ## Technologies Used
 
