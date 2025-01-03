@@ -5,10 +5,12 @@ The Roadmap Project is a comprehensive, well-structured guide designed to help l
 
 ## Features
 
-- **Feature 1**: Describe the first major feature of your project.
-- **Feature 2**: Describe the second major feature.
-- **Feature 3**: Describe any other important features.
-- **Feature 4**: Mention any additional capabilities like multi-language support, responsive design, etc.
+Interactive Roadmaps: Explore learning paths for different technologies (e.g., ReactJS, NestJS, PostgreSQL).
+User Authentication: Secure login and user management.
+Responsive Design: Mobile-friendly UI powered by Tailwind CSS.
+Data Storage: Use PostgreSQL to store user data, roadmaps.
+Admin Dashboard: Admins can manage and update roadmaps.
+Interactive UI: Built with ReactJS to provide a dynamic and fast user experience.
 
 ## Technologies Used
 
